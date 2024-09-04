@@ -62,13 +62,13 @@
 # print(b)
 
 
-l=[14,8,9,16,2,0,10,56,78,45,23,21,90,60]
-l1=[]
-while l:
-    min=l[0]
-    for x in l:
-        if x<min:
-            min=x
-    l1.append(min)
-    l.remove(min)
-print(l1)
+# l=[14,8,9,16,2,0,10,56,78,45,23,21,90,60]
+# l1=[]
+# while l:
+#     min=l[0]
+#     for x in l:
+#         if x<min:
+#             min=x
+#     l1.append(min)
+#     l.remove(min)
+# print(l1)
